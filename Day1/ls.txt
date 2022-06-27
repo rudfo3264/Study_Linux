@@ -1,0 +1,9 @@
+a.out
+a.txt
+c.txt
+hello
+hello.c
+ls.txt
+main.c
+name.bak
+name.c
