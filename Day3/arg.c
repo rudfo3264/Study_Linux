@@ -15,8 +15,9 @@ int main()
 	//}
 
 	//시간 복잡도 n/2
-	for(i=0; i <= n; i++)
-
+	int j;
+	for(i= num, j=1; i=j,    ;i-- j++)
+		result += (i+j);
 
 	printf("%d\n",result);
 
